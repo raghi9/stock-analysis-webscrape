@@ -1,0 +1,272 @@
+1544743310872	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FmfuHDydUD0b"
+1544743311181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1544743311181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1544743314054	Marionette	INFO	Listening on port 34095
+1544743314103	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stat2.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 939: unreachable code after return statement
+JavaScript warning: https://stat2.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 945: unreachable code after return statement
+JavaScript warning: https://stat2.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 2239: unreachable code after return statement
+JavaScript warning: https://stat2.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 2245: unreachable code after return statement
+JavaScript warning: https://stat.moneycontrol.co.in/mcjs/markets/https_market_hp12.min.js?v=0.2, line 348: unreachable code after return statement
+JavaScript warning: https://stat.moneycontrol.co.in/mcjs/markets/https_market_hp12.min.js?v=0.2, line 354: unreachable code after return statement
+JavaScript warning: https://stat.moneycontrol.co.in/mcjs/markets/https_market_hp12.min.js?v=0.2, line 3051: unreachable code after return statement
+JavaScript warning: https://stat.moneycontrol.co.in/mcjs/markets/https_market_hp12.min.js?v=0.2, line 3057: unreachable code after return statement
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 3385: unreachable code after return statement
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 3391: unreachable code after return statement
+JavaScript error: https://www.moneycontrol.com/india/stockpricequote/infrastructure-general/larsentoubro/LT, line 6820: TypeError: $(...).eq(...).offset(...) is undefined
+JavaScript error: https://outstream.playstream.media/domain/e381b553-3aa2-4f8e-938a-7eb908c34221.js, line 2: SecurityError: Permission denied to access property "document" on cross-origin object
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-PGHT597&cid=561354462.1544743334, line 94: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://outstream.playstream.media/js/outstream-network18.js, line 1: TypeError: $(...)[0] is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 4451: TypeError: $(...).webTicker is not a function
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 939: unreachable code after return statement
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 945: unreachable code after return statement
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 2239: unreachable code after return statement
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 2245: unreachable code after return statement
+JavaScript warning: https://stat2.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 348: unreachable code after return statement
+JavaScript warning: https://stat2.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 354: unreachable code after return statement
+JavaScript warning: https://stat2.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 3051: unreachable code after return statement
+JavaScript warning: https://stat2.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 3057: unreachable code after return statement
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 3385: unreachable code after return statement
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 3391: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-PGHT597&cid=561354462.1544743334, line 94: unreachable code after return statement
+JavaScript error: https://outstream.playstream.media/js/outstream-network18.js, line 1: TypeError: $(...)[0] is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 4451: TypeError: $(...).webTicker is not a function
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 939: unreachable code after return statement
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 945: unreachable code after return statement
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 2239: unreachable code after return statement
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 2245: unreachable code after return statement
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 348: unreachable code after return statement
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 354: unreachable code after return statement
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 3051: unreachable code after return statement
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 3057: unreachable code after return statement
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 3385: unreachable code after return statement
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 3391: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-PGHT597&cid=561354462.1544743334, line 94: unreachable code after return statement
+JavaScript error: https://outstream.playstream.media/js/outstream-network18.js, line 1: TypeError: $(...)[0] is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 4451: TypeError: $(...).webTicker is not a function
+JavaScript error: https://stat1.moneycontrol.com/mcjs/common/moneycontrol_header.js?v=123.3, line 81: TypeError: spec_slider is undefined
+JavaScript warning: https://stat3.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 939: unreachable code after return statement
+JavaScript warning: https://stat3.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 945: unreachable code after return statement
+JavaScript warning: https://stat3.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 2239: unreachable code after return statement
+JavaScript warning: https://stat3.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 2245: unreachable code after return statement
+JavaScript warning: https://stat3.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 348: unreachable code after return statement
+JavaScript warning: https://stat3.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 354: unreachable code after return statement
+JavaScript warning: https://stat3.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 3051: unreachable code after return statement
+JavaScript warning: https://stat3.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 3057: unreachable code after return statement
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 3385: unreachable code after return statement
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 3391: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-PGHT597&cid=561354462.1544743334, line 94: unreachable code after return statement
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 4451: TypeError: $(...).webTicker is not a function
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 939: unreachable code after return statement
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 945: unreachable code after return statement
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 2239: unreachable code after return statement
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 2245: unreachable code after return statement
+JavaScript warning: https://stat3.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 348: unreachable code after return statement
+JavaScript warning: https://stat3.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 354: unreachable code after return statement
+JavaScript warning: https://stat3.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 3051: unreachable code after return statement
+JavaScript warning: https://stat3.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 3057: unreachable code after return statement
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 4451: TypeError: $(...).webTicker is not a function
+[Parent 4116, Gecko_IOThread] WARNING: pipe error (157): Connection reset by peer: file /build/firefox-h0evE3/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+JavaScript error: https://outstream.playstream.media/js/outstream-network18.js, line 1: TypeError: $(...)[0] is undefined
+JavaScript warning: https://stat1.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 939: unreachable code after return statement
+JavaScript warning: https://stat1.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 945: unreachable code after return statement
+JavaScript warning: https://stat1.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 2239: unreachable code after return statement
+JavaScript warning: https://stat1.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 2245: unreachable code after return statement
+JavaScript warning: https://stat2.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 348: unreachable code after return statement
+JavaScript warning: https://stat2.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 354: unreachable code after return statement
+JavaScript warning: https://stat2.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 3051: unreachable code after return statement
+JavaScript warning: https://stat2.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 3057: unreachable code after return statement
+JavaScript error: https://outstream.playstream.media/js/outstream-network18.js, line 1: TypeError: $(...)[0] is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 4451: TypeError: $(...).webTicker is not a function
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 939: unreachable code after return statement
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 945: unreachable code after return statement
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 2239: unreachable code after return statement
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 2245: unreachable code after return statement
+JavaScript warning: https://stat.moneycontrol.co.in/mcjs/markets/https_market_hp12.min.js?v=0.2, line 348: unreachable code after return statement
+JavaScript warning: https://stat.moneycontrol.co.in/mcjs/markets/https_market_hp12.min.js?v=0.2, line 354: unreachable code after return statement
+JavaScript warning: https://stat.moneycontrol.co.in/mcjs/markets/https_market_hp12.min.js?v=0.2, line 3051: unreachable code after return statement
+JavaScript warning: https://stat.moneycontrol.co.in/mcjs/markets/https_market_hp12.min.js?v=0.2, line 3057: unreachable code after return statement
+JavaScript error: https://outstream.playstream.media/js/outstream-network18.js, line 1: TypeError: $(...)[0] is undefined
+1544860851049	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Raghav\\AppData\\Local\\Temp\\rust_mozprofile.iixhHGQVVrys"
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1544860857896	Marionette	INFO	Listening on port 50322
+1544860858583	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stat.moneycontrol.co.in/mcjs/markets/https_common.js?ver=0.2, line 939: unreachable code after return statement
+JavaScript warning: https://stat.moneycontrol.co.in/mcjs/markets/https_common.js?ver=0.2, line 945: unreachable code after return statement
+JavaScript warning: https://stat.moneycontrol.co.in/mcjs/markets/https_common.js?ver=0.2, line 2239: unreachable code after return statement
+JavaScript warning: https://stat.moneycontrol.co.in/mcjs/markets/https_common.js?ver=0.2, line 2245: unreachable code after return statement
+JavaScript warning: https://stat3.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 348: unreachable code after return statement
+JavaScript warning: https://stat3.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 354: unreachable code after return statement
+JavaScript warning: https://stat3.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 3051: unreachable code after return statement
+JavaScript warning: https://stat3.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 3057: unreachable code after return statement
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 3385: unreachable code after return statement
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 3391: unreachable code after return statement
+JavaScript error: https://www.moneycontrol.com/india/stockpricequote/infrastructure-general/larsentoubro/LT, line 6896: TypeError: $(...).eq(...).offset(...) is undefined
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-PGHT597&cid=765443137.1544860866, line 94: unreachable code after return statement
+JavaScript error: https://tpc.googlesyndication.com/sodar/6uQTKQJz.html, line 29: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://outstream.playstream.media/js/outstream-network18.js, line 1: TypeError: $(...)[0] is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 4451: TypeError: $(...).webTicker is not a function
+JavaScript warning: https://stat1.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 939: unreachable code after return statement
+JavaScript warning: https://stat1.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 945: unreachable code after return statement
+JavaScript warning: https://stat1.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 2239: unreachable code after return statement
+JavaScript warning: https://stat1.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 2245: unreachable code after return statement
+JavaScript warning: https://stat3.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 348: unreachable code after return statement
+JavaScript warning: https://stat3.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 354: unreachable code after return statement
+JavaScript warning: https://stat3.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 3051: unreachable code after return statement
+JavaScript warning: https://stat3.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 3057: unreachable code after return statement
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 3385: unreachable code after return statement
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 3391: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-PGHT597&cid=765443137.1544860866, line 94: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: https://outstream.playstream.media/js/outstream-network18.js, line 1: TypeError: $(...)[0] is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 4451: TypeError: $(...).webTicker is not a function
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript warning: https://stat.moneycontrol.co.in/mcjs/markets/https_common.js?ver=0.2, line 939: unreachable code after return statement
+JavaScript warning: https://stat.moneycontrol.co.in/mcjs/markets/https_common.js?ver=0.2, line 945: unreachable code after return statement
+JavaScript warning: https://stat.moneycontrol.co.in/mcjs/markets/https_common.js?ver=0.2, line 2239: unreachable code after return statement
+JavaScript warning: https://stat.moneycontrol.co.in/mcjs/markets/https_common.js?ver=0.2, line 2245: unreachable code after return statement
+JavaScript warning: https://stat3.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 348: unreachable code after return statement
+JavaScript warning: https://stat3.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 354: unreachable code after return statement
+JavaScript warning: https://stat3.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 3051: unreachable code after return statement
+JavaScript warning: https://stat3.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 3057: unreachable code after return statement
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 3385: unreachable code after return statement
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 3391: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-PGHT597&cid=765443137.1544860866, line 94: unreachable code after return statement
+JavaScript error: https://outstream.playstream.media/js/outstream-network18.js, line 1: TypeError: $(...)[0] is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 4451: TypeError: $(...).webTicker is not a function
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript warning: https://stat3.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 939: unreachable code after return statement
+JavaScript warning: https://stat3.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 945: unreachable code after return statement
+JavaScript warning: https://stat3.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 2239: unreachable code after return statement
+JavaScript warning: https://stat3.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 2245: unreachable code after return statement
+JavaScript warning: https://stat.moneycontrol.co.in/mcjs/markets/https_market_hp12.min.js?v=0.2, line 348: unreachable code after return statement
+JavaScript warning: https://stat.moneycontrol.co.in/mcjs/markets/https_market_hp12.min.js?v=0.2, line 354: unreachable code after return statement
+JavaScript warning: https://stat.moneycontrol.co.in/mcjs/markets/https_market_hp12.min.js?v=0.2, line 3051: unreachable code after return statement
+JavaScript warning: https://stat.moneycontrol.co.in/mcjs/markets/https_market_hp12.min.js?v=0.2, line 3057: unreachable code after return statement
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 3385: unreachable code after return statement
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 3391: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-PGHT597&cid=765443137.1544860866, line 94: unreachable code after return statement
+JavaScript error: https://outstream.playstream.media/js/outstream-network18.js, line 1: TypeError: $(...)[0] is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 4451: TypeError: $(...).webTicker is not a function
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 939: unreachable code after return statement
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 945: unreachable code after return statement
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 2239: unreachable code after return statement
+JavaScript warning: https://stat4.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 2245: unreachable code after return statement
+JavaScript warning: https://stat.moneycontrol.co.in/mcjs/markets/https_market_hp12.min.js?v=0.2, line 348: unreachable code after return statement
+JavaScript warning: https://stat.moneycontrol.co.in/mcjs/markets/https_market_hp12.min.js?v=0.2, line 354: unreachable code after return statement
+JavaScript warning: https://stat.moneycontrol.co.in/mcjs/markets/https_market_hp12.min.js?v=0.2, line 3051: unreachable code after return statement
+JavaScript warning: https://stat.moneycontrol.co.in/mcjs/markets/https_market_hp12.min.js?v=0.2, line 3057: unreachable code after return statement
+JavaScript error: https://outstream.playstream.media/js/outstream-network18.js, line 1: TypeError: $(...)[0] is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 4451: TypeError: $(...).webTicker is not a function
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript warning: https://stat2.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 939: unreachable code after return statement
+JavaScript warning: https://stat2.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 945: unreachable code after return statement
+JavaScript warning: https://stat2.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 2239: unreachable code after return statement
+JavaScript warning: https://stat2.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 2245: unreachable code after return statement
+JavaScript warning: https://stat.moneycontrol.co.in/mcjs/markets/https_market_hp12.min.js?v=0.2, line 348: unreachable code after return statement
+JavaScript warning: https://stat.moneycontrol.co.in/mcjs/markets/https_market_hp12.min.js?v=0.2, line 354: unreachable code after return statement
+JavaScript warning: https://stat.moneycontrol.co.in/mcjs/markets/https_market_hp12.min.js?v=0.2, line 3051: unreachable code after return statement
+JavaScript warning: https://stat.moneycontrol.co.in/mcjs/markets/https_market_hp12.min.js?v=0.2, line 3057: unreachable code after return statement
+JavaScript error: https://outstream.playstream.media/js/outstream-network18.js, line 1: TypeError: $(...)[0] is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 4451: TypeError: $(...).webTicker is not a function
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript warning: https://stat3.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 939: unreachable code after return statement
+JavaScript warning: https://stat3.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 945: unreachable code after return statement
+JavaScript warning: https://stat3.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 2239: unreachable code after return statement
+JavaScript warning: https://stat3.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 2245: unreachable code after return statement
+JavaScript warning: https://stat3.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 348: unreachable code after return statement
+JavaScript warning: https://stat3.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 354: unreachable code after return statement
+JavaScript warning: https://stat3.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 3051: unreachable code after return statement
+JavaScript warning: https://stat3.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 3057: unreachable code after return statement
+JavaScript error: https://outstream.playstream.media/js/outstream-network18.js, line 1: TypeError: $(...)[0] is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 4451: TypeError: $(...).webTicker is not a function
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript warning: https://stat2.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 939: unreachable code after return statement
+JavaScript warning: https://stat2.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 945: unreachable code after return statement
+JavaScript warning: https://stat2.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 2239: unreachable code after return statement
+JavaScript warning: https://stat2.moneycontrol.com/mcjs/markets/https_common.js?ver=0.2, line 2245: unreachable code after return statement
+JavaScript warning: https://stat.moneycontrol.co.in/mcjs/markets/https_market_hp12.min.js?v=0.2, line 348: unreachable code after return statement
+JavaScript warning: https://stat.moneycontrol.co.in/mcjs/markets/https_market_hp12.min.js?v=0.2, line 354: unreachable code after return statement
+JavaScript warning: https://stat.moneycontrol.co.in/mcjs/markets/https_market_hp12.min.js?v=0.2, line 3051: unreachable code after return statement
+JavaScript warning: https://stat.moneycontrol.co.in/mcjs/markets/https_market_hp12.min.js?v=0.2, line 3057: unreachable code after return statement
+JavaScript error: https://outstream.playstream.media/js/outstream-network18.js, line 1: TypeError: $(...)[0] is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript warning: https://stat.moneycontrol.co.in/mcjs/markets/https_common.js?ver=0.2, line 939: unreachable code after return statement
+JavaScript warning: https://stat.moneycontrol.co.in/mcjs/markets/https_common.js?ver=0.2, line 945: unreachable code after return statement
+JavaScript warning: https://stat.moneycontrol.co.in/mcjs/markets/https_common.js?ver=0.2, line 2239: unreachable code after return statement
+JavaScript warning: https://stat.moneycontrol.co.in/mcjs/markets/https_common.js?ver=0.2, line 2245: unreachable code after return statement
+JavaScript warning: https://stat1.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 348: unreachable code after return statement
+JavaScript warning: https://stat1.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 354: unreachable code after return statement
+JavaScript warning: https://stat1.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 3051: unreachable code after return statement
+JavaScript warning: https://stat1.moneycontrol.com/mcjs/markets/https_market_hp12.min.js?v=0.2, line 3057: unreachable code after return statement
+JavaScript error: https://outstream.playstream.media/js/outstream-network18.js, line 1: TypeError: $(...)[0] is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 4451: TypeError: $(...).webTicker is not a function
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+JavaScript error: https://stat4.moneycontrol.com/mcjs/mcradar/market_radar_aws.js?ver=20180820, line 1467: TypeError: $.browser is undefined
+[Child 1000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1[Parent 10340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1544861340865	Marionette	INFO	Stopped listening on port 50322
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
