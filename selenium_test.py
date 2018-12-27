@@ -20,6 +20,7 @@ import highlight_sel_element
 import xpath_soup
 from openpyxl import load_workbook
 
+import re
 
 # iterates over the query list to retrieve data for all years spread across various pages
 def iterate_over_data_pages(list_of_query_titles,year,start_col_index) :
@@ -34,9 +35,15 @@ def iterate_over_data_pages(list_of_query_titles,year,start_col_index) :
         print("size of list : " +  str(size_of_list) +  " index : " + str(list_of_query_titles.index(query)) )
         if(list_of_query_titles.index(query) == size_of_list-1):
             is_last_query_on_page = True
-        query_title = data_soup.find("td",text = query["title"])
+        # *******
+        # query_title = data_soup.find("td",text = query["title"])
+        query_title = None
+        for option in query[0] :
+            query_title = data_soup.find("td",text = option)
+            if(query_title != None) :
+                break
         result_list = retrieve_data(query_title,is_last_query_on_page)
-        count=store_data(result_list,query["row"],year,start_col_index)
+        count=store_data(result_list,query[1],year,start_col_index)
     start_col_index = start_col_index + count
 
     # if 'PreviousYears>>' link not found then return cuz this should be the last page
@@ -102,8 +109,8 @@ def store_data(result_list,row_index,year,start_col_index):
     #store the result list of each query_title
 
 if __name__ == "__main__":
-    wb = load_workbook("test_book.xlsx")
-    ws = wb.active
+    wb = load_workbook("workbooks/test_book.xlsx")
+    ws = wb["Sheet1"]
     list_of_query_titles = []
     url = str(sys.argv[1])
     # create a new Firefox session
@@ -117,15 +124,21 @@ if __name__ == "__main__":
         exit(0)
     button.click()
 
-    list_of_balance_sheet_elements = [{"title" : "Total Shareholders Funds","row" : 7},
-                        {"title" : "Long Term Borrowings","row" : 10},
-                        {"title" : "Short Term Borrowings","row" :11},
-                        {"title" : "Total Current Liabilities","row" : 16},
-                        {"title" : "Total Assets","row" : 19},
-                        {"title" : "Total Current Assets", "row" : 20}]
-    list_of_ratios_elements = [{"title" : "Book Value [InclRevalReserve]/Share (Rs.)","row" : 3},
-                        {"title" : "Diluted EPS (Rs.)","row" : 4},
-                        {"title" : "Dividend / Share(Rs.)","row" :5}]
+    list_of_balance_sheet_elements = [
+        (["Total Shareholders Funds","Total ShareHolders Funds"],7),
+        (["Long Term Borrowings"],10),
+        (["Short Term Borrowings"],11),
+        (["Total Current Liabilities"],16),
+        (["Total Current Assets"],20),
+        (["Total Assets"],19)
+    ]
+
+    list_of_ratios_elements = [
+        (["Book Value [InclRevalReserve]/Share (Rs.)","Book Value [Incl. Reval Reserve]/Share (Rs.)"],3),
+        (["Diluted EPS (Rs.)","Diluted Eps (Rs.)"],4),
+        (["Dividend / Share(Rs.)","Dividend/Share (Rs.)"],5),
+    ]
+
     # iteration over diff pages
     list_of_page_links = [("Balance Sheet",list_of_balance_sheet_elements),("Ratios",list_of_ratios_elements)]
     for page_name, list_of_elements in list_of_page_links : 
@@ -136,4 +149,4 @@ if __name__ == "__main__":
         button.click()   
         iterate_over_data_pages(list_of_elements,year,start_col_index)
     print("saving file")
-    wb.save(str(sys.argv[2])+".xlsx")
+    wb.save("workbooks/" + str(sys.argv[2])+".xlsx")
